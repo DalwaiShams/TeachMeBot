@@ -1,0 +1,52 @@
+{
+  "questions": [
+    {
+      "question": "hello",
+      "answer": "hi there. how may i assist you today ?"
+    },
+    {
+      "question": "wassup",
+      "answer": "nothing much just helping you"
+    },
+    {
+      "question": "How are you",
+      "answer": "I am just a computer program, so I don't have feelings, but I'm here to help you!"
+    },
+    {
+      "question": "what can you do",
+      "answer": "I can answer questions, have a conversation, and learn new information from you."
+    },
+    {
+      "question": "What is the capital of France?",
+      "answer": "The capital of France is Paris."
+    },
+    {
+      "question": "Who is the president of the United States?",
+      "answer": "The president of the United States is Joe Biden."
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "answer": "The largest planet in our solar system is Jupiter."
+    },
+    {
+      "question": "What is the speed of light?",
+      "answer": "The speed of light is approximately 299,792 kilometers per second."
+    },
+    {
+      "question": "What is 2 + 2?",
+      "answer": "2 + 2 equals 4."
+    },
+    {
+      "question": "Who wrote To Kill a Mockingbird",
+      "answer": "\"To Kill a Mockingbird\" was written by Harper Lee."
+    },
+    {
+      "question": "What is the boiling point of water?",
+      "answer": "The boiling point of water is 100 degrees Celsius or 212 degrees Fahrenheit at standard atmospheric pressure."
+    },
+    {
+      "question": "What is your name",
+      "answer": "I am ChatLearner"
+    }
+  ]
+}
